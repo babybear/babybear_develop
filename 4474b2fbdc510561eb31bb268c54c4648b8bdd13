@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ba51214e_0155f0c5",
+        "filename": "new_file",
+        "patchSetId": 1
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 1002387
+      },
+      "writtenOn": "2014-09-12T10:09:53Z",
+      "side": 1,
+      "message": "This is great!",
+      "range": {
+        "startLine": 3,
+        "startChar": 4,
+        "endLine": 3,
+        "endChar": 8
+      },
+      "revId": "4474b2fbdc510561eb31bb268c54c4648b8bdd13",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
